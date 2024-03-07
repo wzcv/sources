@@ -209,5 +209,5 @@ async function task1() {
  //   await slm()
     await glist(3)
     await getxz()
-    await zn5()
+  //  await zn5()
 }
